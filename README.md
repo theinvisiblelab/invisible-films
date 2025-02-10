@@ -2,7 +2,11 @@
 
 ![](8V9H.gif)
 
-This probject aims to find _invisible films_ - films that are high quality but still unheard of - often because they are in a non-mainstream language or created in a non-Eurocentric context. We leverage data from https://www.themoviedb.org/ for these analyses.
+This probject aims to find _invisible films_ — hidden gems from diverse cultures that are high quality but still largely unheard of — often because they are in a non-mainstream language or set in a non-Eurocentric context or made with less resources. 
+
+We build on data from https://www.themoviedb.org/ for these analyses. Access to cleaned data can be requested by emailing [Saurabh Khanna](mailto:s.khanna@uva.nl).
+
+**Codebook of Current Data**
 
 | Column Name           | Data Type   | Description   |
 |:----------------------|:------------|:--------------|
